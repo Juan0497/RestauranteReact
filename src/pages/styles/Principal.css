@@ -1,0 +1,16 @@
+.parallax {
+  /* background-image: url("../../components/imagenes/resparallax.jpeg");
+
+  min-height: 150px; */
+
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.box {
+  margin-top: 18px;
+  height: 1000px;
+  font-size: 36px;
+  display: flex;
+  justify-content: left;
+}
